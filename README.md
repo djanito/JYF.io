@@ -15,10 +15,10 @@ First, install a Pascal compiler.
 
 Next, fork the repository. Then, go into your favorite terminal.
 
-    git clone git@github.com:YOUR_USERNAME/agario.git
+    git clone git@github.com:YOUR_USERNAME/JYF.io.git
     cd agario
 
-Now, while still inside the `agario` folder, compile the project and click on the main.exe.
+Now, while still inside the `JYF.io` folder, compile the project and click on the main.exe.
 
 ## Features
 
