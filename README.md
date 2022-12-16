@@ -41,4 +41,4 @@ Here is a non-exhaustive list of the features of this game.
   - [x] Border limits
   - [x] File-based generation 
   - [x] Game skills
-    - [] Splitting
+    - [ ] Splitting
