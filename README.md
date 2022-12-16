@@ -18,7 +18,7 @@ Next, fork the repository. Then, go into your favorite terminal.
     git clone git@github.com:YOUR_USERNAME/agario.git
     cd agario
 
-Now, while still inside the `boulder-dash` folder, compile the project and click on the main.exe.
+Now, while still inside the `agario` folder, compile the project and click on the main.exe.
 
 ## Features
 
